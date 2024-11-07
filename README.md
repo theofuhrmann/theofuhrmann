@@ -1,1 +1,1 @@
-[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=ch9vd9pkg9rs73dq6dg0&custom_title=Th%C3%A9o%20%40%20Silt&custom_subtitle=Computer%20Vision%20Specialist%20%26%20Backend&show_icons=true&disable_animations=false&title_color=c0d270&text_color=68b587&icon_color=b7d364&ring_color=68b587&bg_color=49664e&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F64170983%3Fv%3D4)](https://pullpo.io/products/devcard)
+
